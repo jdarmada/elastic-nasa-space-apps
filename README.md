@@ -3,6 +3,7 @@
 
 ### Getting Started with Elastic
 - [Elastic Fundamentals & Docs Hub](https://www.elastic.co/docs/get-started/)
+- [ESQL reference](https://www.elastic.co/docs/reference/query-languages/esql)
 
 ---
 
@@ -14,7 +15,8 @@
 ---
 
 ### Search & Analytics
-- [Geospatial Queries](https://www.elastic.co/docs/reference/query-languages/query-dsl/geo-queries)
+- [Geo Queries](https://www.elastic.co/docs/reference/query-languages/query-dsl/geo-queries)
+- [Geospatial Analysis](https://www.elastic.co/docs/explore-analyze/geospatial-analysis)
 - [Vector Search](https://www.elastic.co/docs/solutions/search/vector)
 - [Hybrid Search (Combining Vector + Keyword)](https://www.elastic.co/docs/solutions/search/hybrid-search)
 
